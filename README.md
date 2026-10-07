@@ -14,3 +14,9 @@ To make a basic cake, mix together flour, sugar, eggs, and butter in equal parts
 - **The page does not load:** Check your network connection and reload the page.
 - **I forgot my password:** Use the reset link on the sign-in page.
 - **A task failed:** Open the ticket and read the verdict for the reason.
+
+## Contributing
+
+- **Report a bug:** Open an issue and include the steps to reproduce it.
+- **Suggest a change:** Open an issue first, before you start a large pull request.
+- **Submit a fix:** Fork the repository, make a branch, and open a pull request.
